@@ -1,0 +1,60 @@
+{
+  "jadwal": [
+    {
+      "start": "04.00",
+      "end": "04.00",
+      "kegiatan": "BANGUN PAGI"
+    },
+    {
+      "start": "04.30",
+      "end": "05.30",
+      "kegiatan": "SHOLAT"
+    },
+    {
+      "start": "06.00",
+      "end": "06.00",
+      "kegiatan": "MAKAN PAGI"
+    },
+    {
+      "start": "07.00",
+      "end": "07.00",
+      "kegiatan": "APEL"
+    },
+    {
+      "start": "07.30",
+      "end": "11.40",
+      "kegiatan": "Perkuliahan"
+    },
+    {
+      "start": "11.40",
+      "end": "13.30",
+      "kegiatan": "== ISHOMA =="
+    },
+    {
+      "start": "13.30",
+      "end": "16.45",
+      "kegiatan": "Perkuliahan"
+    },
+    {
+      "start": "16.45",
+      "end": "17.15",
+      "kegiatan": "LARI RESIMEN"
+    },
+    {
+      "start": "18.00",
+      "end": "19.00",
+      "kegiatan": "==  ISHOMA =="
+    },
+    {
+      "start": "19.00",
+      "end": "20.00",
+      "kegiatan": "APEL MALAM"
+    },
+    {
+      "start": "21.30",
+      "end": "03.30",
+      "kegiatan": "ISTIRAHAT"
+    }
+  ],
+  "raw": "RENGIAT BATALYON DEWASA SERSAN KADET\nSELASA, 09 SEPTEMBER 2025\n\n04.00                  BANGUN PAGI\n04.30 - 05.30     SHOLAT\n06.00                  MAKAN PAGI\n07.00                  APEL \n07.30 - 11.40    Perkuliahan\n11.40 - 13.30     == ISHOMA == \n13.30 - 16.45     Perkuliahan\n16.45                   LARI RESIMEN\n18.00 - 19.00     ==  ISHOMA == \n19.00  - 20.00    APEL MALAM\n21.30  - 03.30    ISTIRAHAT\n\n\nDC \n- PDH MUDZ \n\n\n\n\nNOTE\n- HINDARI PELANGGARAN\n- Perhatikan kerapian\n- Sholat 5 waktu di Masjid\n\nLabor omnia vincit\n\n\nDemikian, Terima Kasih"
+}
