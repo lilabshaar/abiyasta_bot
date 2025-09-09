@@ -2,13 +2,17 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 from telegram.constants import ChatType
 import os
+from dotenv import load_dotenv
 import json
 import re
 import asyncio
 from datetime import datetime, time, timedelta
 import random
 
-TOKEN = "7700385066:AAGTD1cZdDpj1RIUXSrK3BFzy2oNP0JLpUQ"
+
+load_dotenv()
+TOKEN = os.getenv("TOKEN")
+
 JADWAL_FILE = "jadwal.json"
 
 RUKAN_TIMES = ["06.00", "12.30", "18.30"]
